@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weight Logger</string>
+
+    <string name="add_btn_text">+%s</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_time">Date Time</string>
+    <string name="delete">Delete</string>
+    <string name="delete_success">Weight entry deleted successfully.</string>
+    <string name="delete_fail">Failed to delete weight entry.</string>
+    <string name="edit_entry">Edit Entry</string>
+    <string name="lbs_text">Lbs</string>
+    <string name="no_entries_msg">No weight log data available.</string>
+    <string name="reduce_btn_text">-%s</string>
+    <string name="save_success">Weight entry saved successfully.</string>
+    <string name="save_fail">Failed to save weight entry.</string>
+    <string name="set_date_time">Set Date Time</string>
+    <string name="view_history_text">View Weight History Data</string>
+    <string name="weight_in_lbs">Weight\n(1 - 500 lbs)</string>
+</resources>
